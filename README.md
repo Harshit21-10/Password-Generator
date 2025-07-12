@@ -34,7 +34,7 @@ It allows users to generate secure random passwords with customizable options fo
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 
-###2️⃣ Install dependencies
+##2️⃣ **Install dependencies**
 
 npm install
 
